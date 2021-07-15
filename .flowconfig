@@ -1,0 +1,12 @@
+[ignore]
+.*/node_modules/.*
+.*/(dist | config | build | static)/.*
+
+[include]
+
+[libs]
+./lib
+
+[lints]
+
+[options]
